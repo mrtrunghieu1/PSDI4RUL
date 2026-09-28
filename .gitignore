@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# PSDI4RUL: data, training outputs, and local notes (never pushed)
+data/
+dataset/
+checkpoints/
+results/
+logs/
+figures/
+result_rul.txt
+docs/
+.claude/
